@@ -1,0 +1,5 @@
+ISBN.string()
+title.string()
+author.string()
+publicationYear.int32()
+publication.string()
